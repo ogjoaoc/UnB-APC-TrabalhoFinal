@@ -1,5 +1,5 @@
 /******************************************************************************
-Aluno(a): João Carlos Gonçalves de Oliveira Filho
+Aluno(a): João Carlos Gonçalves 
 Matrícula: 231011918
 Declaro que eu sou o(a) autor(a) deste trabalho e que o código não foi copiado
 de outra pessoa nem repassado para alguém. Estou ciente de que poderei sofrer
