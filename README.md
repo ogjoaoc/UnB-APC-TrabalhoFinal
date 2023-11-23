@@ -1,2 +1,2 @@
-# UnB-APC-TrabalhoFinal
-Trabalho Final da disciplina de Algoritmos e Programação de Computadores com o professor Giovanni.
+# UnB-APC-FinalProject
+Final project for the Algorithms and Computer Programming (UnB) course with Professor Giovanni.
